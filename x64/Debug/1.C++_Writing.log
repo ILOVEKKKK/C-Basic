@@ -1,0 +1,3 @@
+﻿F:\VScode\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (1.C++_Writing.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  结构体案例练习2.cpp
+  1.C++_Writing.vcxproj -> E:\C_Project\1.C++_Writing\x64\Debug\LESSON1.exe
